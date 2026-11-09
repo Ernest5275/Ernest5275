@@ -31,6 +31,10 @@ US FR, Bilingual: English & French
 | [Ansible Windows & Linux Automation](https://github.com/Ernest5275/ansible-windows-linux-automation) | Playbooks and custom BASH/Python modules for both platforms |
 
 ---
+### 🏅 Certifications
+AWS Certified Solutions Architect – Associate · EC-Council CEH · CompTIA CySA+ · CompTIA Security+ · CompTIA Network+
+
+[View all certificates and verification links →](https://github.com/Ernest5275/certifications)
 
 ### 📫 Contact
 - LinkedIn: [Ernest Foubi](https://www.linkedin.com/in/ernest-foubi-5079682b5)
